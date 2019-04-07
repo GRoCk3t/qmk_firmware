@@ -1,5 +1,6 @@
 #ifndef CONFIG_H
 #define CONFIG_H
+#define TAPPING_TERM 200
 
 #include "config_common.h"
 
